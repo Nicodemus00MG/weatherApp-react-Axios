@@ -14,12 +14,12 @@
     border-top-right-radius: 30px; */
     border-radius: 100%;
     font-size: 1em;
-   
-   
-  
+
+
+
     background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-  color: white;
+color: white;
     box-shadow: 0px 0px 3px black;
 }
 
